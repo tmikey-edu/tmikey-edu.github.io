@@ -5,7 +5,7 @@ This is my home page! My name is Nathan Nguyen and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My Github page is https://github.com/tmikey-edu.
+My Github page is (https://github.com/tmikey-edu).
 
 ### CPSC 120
 
