@@ -1,9 +1,13 @@
 
 # Nathan Nguyen's Portfolio
 
-I am a Computer Science major at CSUF with a concentration in Cybersecurity.
+This is my home page! My name is Nathan Nguyen and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is Computer Science with a concentration in Cybersecurity.
 
-##  Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My Github page is https://github.com/tmikey-edu
+
+###  Favorite CPSC 120L Labs
 
 * Lab 7
     This was one of my favorite labs because it incorporated something I see in everyday life (street signs) and turned its rules into code using if statements and Boolean logic. I learned how to translate the regulations about days, hours, and minutes into readable code using "&&" and "||", and I had to be meticulous about cases like 11:59 and 12:00 to ensure the rules worked as intended. I also practiced input validation and saw how “make test” can ensure that my code and logic are correct.
