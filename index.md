@@ -1,7 +1,7 @@
 
 # Nathan Nguyen's Portfolio
 
-I am a Computer Science major at CSUF with a concentration in Cybersecurity and I plan to graduate in 2027.
+I am a Computer Science major at CSUF with a concentration in Cybersecurity.
 
 ##  Favorite CPSC 120L Labs
 
