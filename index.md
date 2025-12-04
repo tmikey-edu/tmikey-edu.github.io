@@ -17,6 +17,6 @@ My Github page is [https://github.com/tmikey-edu](https://github.com/tmikey-edu)
 
     This was one of my favorite labs because I liked figuring out how to remove just one minimum and one maximum value from a vector of scores before computing the mean. In this lab, I practiced using std::vector<double> and looping through its elements to find extremes, and converting command-line arguments to doubles. It helped me understand how algorithms interact with data structures a little more, because I had no experience working with vectors before.
 
-* Lab 10
+* Lab 10, part 1
 
     This was one of my favorite labs because it was the first time I worked with a two-dimensional std::vector. I liked seeing how the county names and populations could be stored together as strings, then converted and searched using functions CountyPopulation and StatePopulation. This lab also helped me practice with header files and unit tests, so I was able to break a program into pieces and verify each part using the tests.
